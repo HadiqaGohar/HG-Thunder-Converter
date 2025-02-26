@@ -1,3 +1,4 @@
+pint
 streamlit
 pandas
 numpy
